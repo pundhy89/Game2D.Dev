@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/utils.ts","./src/components/ParallaxEditor.tsx","./src/components/Sidebar.tsx","./src/components/Timeline.tsx","./src/components/TopBar.tsx","./src/components/Workspace.tsx","./src/store/index.ts"],"version":"5.9.3"}
